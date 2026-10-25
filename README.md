@@ -165,6 +165,12 @@ Evaluated on the held-out chronological test period (seed = 42, Pune dataset):
 
 ---
 
-## 10. License
+## 10. Author
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Sanskriti Gilda
+
+AquaCrop combines machine learning, meteorological data, and agronomic modeling to support smarter irrigation decisions and efficient water management.
+
+## 11. License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
